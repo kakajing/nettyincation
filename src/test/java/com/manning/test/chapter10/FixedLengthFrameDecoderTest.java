@@ -1,4 +1,4 @@
-package com.manning.test;
+package com.manning.test.chapter10;
 
 import com.manning.chapter10.FixedLengthFrameDecoder;
 import io.netty.buffer.ByteBuf;
